@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "／"
+baseurl = "http://karenksh.github.io/"
 languageCode = "en-us"
 title = "Karen's Public Site"
 theme = "hugo-artists-theme"
